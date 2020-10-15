@@ -1,0 +1,7 @@
+# Script-Linux
+
+A continuación dejo un ejercicio de programación (Shell script Linux).
+
+Enunciado:
+
+Realizar un script que reciba dos números por parámetro y muestre un mensaje indicando si ambos números son iguales, si el primer número es mayor o si el segundo número es mayor. 
